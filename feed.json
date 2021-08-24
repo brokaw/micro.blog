@@ -1,0 +1,163 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Steven Brokaw",
+	"icon": "https://micro.blog/brokaw/avatar.jpg",
+	"home_page_url": "https://brokaw.micro.blog/",
+	"feed_url": "https://brokaw.micro.blog/feed.json",
+	"items": [
+		
+			{
+				"id": "http://brokaw.micro.blog/2021/08/21/i-have-a.html",
+				
+				"content_html": "<p>📚I have a stack of unread Important and Impressive books, but I think I&rsquo;m going to read a children&rsquo;s book: <em><a href=\"https://micro.blog/books/9780613371513\">Howl&rsquo;s Moving Castle</a></em>.</p>\n",
+				"content_text": "📚I have a stack of unread Important and Impressive books, but I think I'm going to read a children's book: _[Howl's Moving Castle](https://micro.blog/books/9780613371513)_.\n",
+				"date_published": "2021-08-21T13:28:00-05:00",
+				"url": "https://brokaw.micro.blog/2021/08/21/i-have-a.html"
+			},
+			{
+				"id": "http://brokaw.micro.blog/2021/08/21/its-another-austin.html",
+				
+				"content_html": "<p>⚽️It&rsquo;s another Austin FC home match I&rsquo;m going to miss because I don&rsquo;t want to crowd into a stadium during a COVID surge.</p>\n",
+				"content_text": "⚽️It's another Austin FC home match I'm going to miss because I don't want to crowd into a stadium during a COVID surge.\n",
+				"date_published": "2021-08-21T11:42:11-05:00",
+				"url": "https://brokaw.micro.blog/2021/08/21/its-another-austin.html"
+			},
+			{
+				"id": "http://brokaw.micro.blog/2021/08/21/i-know-it.html",
+				
+				"content_html": "<p>I know it makes me a suburban cliché, but the gas-powered yard service is really putting an edge on my Saturday morning.</p>\n",
+				"content_text": "I know it makes me a suburban cliché, but the gas-powered yard service is really putting an edge on my Saturday morning.\n",
+				"date_published": "2021-08-21T08:26:14-05:00",
+				"url": "https://brokaw.micro.blog/2021/08/21/i-know-it.html"
+			},
+			{
+				"id": "http://brokaw.micro.blog/2021/08/20/set-up-cross.html",
+				
+				"content_html": "<p>Set up cross posting between Twitter and micro.blog. I&rsquo;ll be trying out micro.blog exclusively for a while.</p>\n",
+				"content_text": "Set up cross posting between Twitter and micro.blog. I'll be trying out micro.blog exclusively for a while.\n",
+				"date_published": "2021-08-20T09:42:43-05:00",
+				"url": "https://brokaw.micro.blog/2021/08/20/set-up-cross.html"
+			},
+			{
+				"id": "http://brokaw.micro.blog/2021/08/19/is-microblog-better.html",
+				"title": "Is Micro.blog better, or just smaller? ",
+				"content_html": "<p>I have two immediate reactions to micro.blog. The first is that it is a friendly and inviting. It feel less confrontational than the blue bird. It doesn&rsquo;t feel like people are trying to score points by dunking on others. The other reaction is that it feels smaller. I don&rsquo;t accidently encounter people talking about, say, Austin FC, or transportation planning.</p>\n\n<p>Are the two related? Is it still an insular little community? What would it feel like if all the same micro-communities came over from the larger social media sites? Would I find those people as easily? What about if the trolls and bad actors arrived? Would it feel as suffocating and soul-sucking as the blue bird?</p>\n",
+				"content_text": "I have two immediate reactions to micro.blog. The first is that it is a friendly and inviting. It feel less confrontational than the blue bird. It doesn't feel like people are trying to score points by dunking on others. The other reaction is that it feels smaller. I don't accidently encounter people talking about, say, Austin FC, or transportation planning.\n\nAre the two related? Is it still an insular little community? What would it feel like if all the same micro-communities came over from the larger social media sites? Would I find those people as easily? What about if the trolls and bad actors arrived? Would it feel as suffocating and soul-sucking as the blue bird?\n",
+				"date_published": "2021-08-19T22:15:10-05:00",
+				"url": "https://brokaw.micro.blog/2021/08/19/is-microblog-better.html"
+			},
+			{
+				"id": "http://brokaw.micro.blog/2021/08/18/ulysses-greatest-strength.html",
+				
+				"content_html": "<p><a href=\"https://ulysses.app\">Ulysses</a>’ greatest strength is its greatest weakness: the internal document database. Yes, it keeps documents together instead of littering my filesystem. It also makes Ulysses a silo. One advantage of markdown is that any program can edit it. Ulysses loses that.</p>\n",
+				"content_text": "[Ulysses](https://ulysses.app)’ greatest strength is its greatest weakness: the internal document database. Yes, it keeps documents together instead of littering my filesystem. It also makes Ulysses a silo. One advantage of markdown is that any program can edit it. Ulysses loses that.\n\n",
+				"date_published": "2021-08-18T08:58:33-05:00",
+				"url": "https://brokaw.micro.blog/2021/08/18/ulysses-greatest-strength.html"
+			},
+			{
+				"id": "http://brokaw.micro.blog/2021/08/18/083605.html",
+				
+				"content_html": "<p>It’s match day for Austin FC. I’m not sure I want to stand in a crowd of 20K and scream for 90 minutes.</p>\n",
+				"content_text": "It’s match day for Austin FC. I’m not sure I want to stand in a crowd of 20K and scream for 90 minutes.\n\n\n",
+				"date_published": "2021-08-18T08:36:05-05:00",
+				"url": "https://brokaw.micro.blog/2021/08/18/083605.html"
+			},
+			{
+				"id": "http://brokaw.micro.blog/2021/08/18/on-the-topic.html",
+				
+				"content_html": "<p>On the topic of writing tools, it looks like <a href=\"https://blog.ulysses.app/ulysses-microblog/\">Ulysses supports micro.blog</a>. As luck would have it, I cancelled my Ulysses subscription because I never used it. Maybe time to try again?</p>\n",
+				"content_text": "On the topic of writing tools, it looks like [Ulysses supports micro.blog](https://blog.ulysses.app/ulysses-microblog/). As luck would have it, I cancelled my Ulysses subscription because I never used it. Maybe time to try again?\n",
+				"date_published": "2021-08-18T08:10:00-05:00",
+				"url": "https://brokaw.micro.blog/2021/08/18/on-the-topic.html"
+			},
+			{
+				"id": "http://brokaw.micro.blog/2021/08/18/i-kind-of.html",
+				
+				"content_html": "<p>I kind of want to write with <a href=\"https://www.barebones.com/products/bbedit/\">BBEdit</a>. I like micro.blog, and I appreciate that the backend is a static site, but it still requires <em>blog tools</em>, instead of <em>writing tools</em>.</p>\n",
+				"content_text": "I kind of want to write with [BBEdit](https://www.barebones.com/products/bbedit/). I like micro.blog, and I appreciate that the backend is a static site, but it still requires _blog tools_, instead of _writing tools_.\n",
+				"date_published": "2021-08-18T02:48:00-05:00",
+				"url": "https://brokaw.micro.blog/2021/08/18/i-kind-of.html"
+			},
+			{
+				"id": "http://brokaw.micro.blog/2021/08/16/monday-morning-its.html",
+				
+				"content_html": "<p>Monday morning! It&rsquo;s going to be a great week!</p>\n",
+				"content_text": "Monday morning! It's going to be a great week!\n",
+				"date_published": "2021-08-16T08:46:30-05:00",
+				"url": "https://brokaw.micro.blog/2021/08/16/monday-morning-its.html"
+			},
+			{
+				"id": "http://brokaw.micro.blog/2021/08/15/we-started-out.html",
+				
+				"content_html": "<p>We started out planning for a picnic at Waterloo Greenway, ended up spending a rainy day at the Crown.</p>\n\n<p><img src=\"uploads/2021/dbeed44a2f.jpg\" /></p>\n",
+				"content_text": "We started out planning for a picnic at Waterloo Greenway, ended up spending a rainy day at the Crown.\n\n<img src=\"uploads/2021/dbeed44a2f.jpg\" />\n",
+				"date_published": "2021-08-15T16:25:00-05:00",
+				"url": "https://brokaw.micro.blog/2021/08/15/we-started-out.html",
+				"tags": ["Austin"]
+			},
+			{
+				"id": "http://brokaw.micro.blog/2021/08/15/i-updated-my.html",
+				
+				"content_html": "<p>I updated my micro.blog theme, and now the <a href=\"https://brokaw.micro.blog/2021/08/15/code.html\">highlighting</a> is somewhat better. I&rsquo;m not a fan of the dark mode syntax on a light mode page, but whatever. The good news is that the syntax is highlighted using CSS classes. The bad news is that it doesn&rsquo;t appear to support Swift syntax.</p>\n",
+				"content_text": "I updated my micro.blog theme, and now the [highlighting](https://brokaw.micro.blog/2021/08/15/code.html) is somewhat better. I'm not a fan of the dark mode syntax on a light mode page, but whatever. The good news is that the syntax is highlighted using CSS classes. The bad news is that it doesn't appear to support Swift syntax.\n",
+				"date_published": "2021-08-15T13:38:45-05:00",
+				"url": "https://brokaw.micro.blog/2021/08/15/i-updated-my.html"
+			},
+			{
+				"id": "http://brokaw.micro.blog/2021/08/15/update-the-next.html",
+				
+				"content_html": "<p>Update: <a href=\"https://brokaw.micro.blog/2021/08/15/the-next-step.html\">the next step</a> is not screwing around with domain names. The next step is to write a bunch of stuff and see how it shakes out, how it feels. Most notably: Does micro.blog result in more writing? If so, then I can work around anything else.</p>\n",
+				"content_text": "Update: [the next step](https://brokaw.micro.blog/2021/08/15/the-next-step.html) is not screwing around with domain names. The next step is to write a bunch of stuff and see how it shakes out, how it feels. Most notably: Does micro.blog result in more writing? If so, then I can work around anything else.\n",
+				"date_published": "2021-08-15T13:13:32-05:00",
+				"url": "https://brokaw.micro.blog/2021/08/15/update-the-next.html"
+			},
+			{
+				"id": "http://brokaw.micro.blog/2021/08/15/syntax-highlighting-in.html",
+				"title": "Syntax Highlighting in micro.blog",
+				"content_html": "<p>I give micro.blog a C- on <a href=\"https://brokaw.micro.blog/2021/08/15/code.html\">code formatting</a>. The code block is monospace, but has no highlighting applied. The code block is wrapped in <code>&lt;pre&gt;</code> and <code>&lt;code&gt;,</code> with the language captured as a <code>class</code> within <code>code</code>. That&rsquo;s enough to get a javascript syntax highlighter to work, but I&rsquo;m of the firm opinion that syntax highlighting should be a server-side operation. The lexer should wrap each language token in a CSS class, and let a stylesheet colorize the syntax.</p>\n",
+				"content_text": "I give micro.blog a C- on [code formatting](https://brokaw.micro.blog/2021/08/15/code.html). The code block is monospace, but has no highlighting applied. The code block is wrapped in `<pre>` and `<code>,` with the language captured as a `class` within `code`. That's enough to get a javascript syntax highlighter to work, but I'm of the firm opinion that syntax highlighting should be a server-side operation. The lexer should wrap each language token in a CSS class, and let a stylesheet colorize the syntax.\n",
+				"date_published": "2021-08-15T13:08:04-05:00",
+				"url": "https://brokaw.micro.blog/2021/08/15/syntax-highlighting-in.html"
+			},
+			{
+				"id": "http://brokaw.micro.blog/2021/08/15/code.html",
+				
+				"content_html": "<p>I wonder how code formatting works? Here are a couple of samples:</p>\n\n<pre><code class=\"language-objc\">#import &lt;Foundation/Foundation.h&gt;\n \nint main(int argc, char* argv[]) {\n\tfor (NSInteger i=1; I &lt;= 101; i++) {\n\t\tif (i % 15 == 0) {\n\t\t    NSLog(@&quot;FizzBuzz\\n&quot;);\n\t\t} else if (i % 3 == 0) {\n\t\t    NSLog(@&quot;Fizz\\n&quot;);\n\t\t} else if (i % 5 == 0) {\n\t\t    NSLog(@&quot;Buzz\\n&quot;);\n\t\t} else {\n\t\t    NSLog(@&quot;%li\\n&quot;, i);\n\t\t}\n\t}\n}\n</code></pre>\n\n<p>And Swift:</p>\n\n<pre><code class=\"language-swift\">for i in 1...100 {\n    switch (i % 3, i % 5) {\n    case (0, 0):\n        print(&quot;FizzBuzz&quot;)\n    case (0, _):\n        print(&quot;Fizz&quot;)\n    case (_, 0):\n        print(&quot;Buzz&quot;)\n    default:\n        print(i)\n    }\n}\n</code></pre>\n",
+				"content_text": "I wonder how code formatting works? Here are a couple of samples:\n\n```objc\n#import <Foundation/Foundation.h>\n \nint main(int argc, char* argv[]) {\n\tfor (NSInteger i=1; I <= 101; i++) {\n\t\tif (i % 15 == 0) {\n\t\t    NSLog(@\"FizzBuzz\\n\");\n\t\t} else if (i % 3 == 0) {\n\t\t    NSLog(@\"Fizz\\n\");\n\t\t} else if (i % 5 == 0) {\n\t\t    NSLog(@\"Buzz\\n\");\n\t\t} else {\n\t\t    NSLog(@\"%li\\n\", i);\n\t\t}\n\t}\n}\n```\n\nAnd Swift:\n\n```swift\nfor i in 1...100 {\n    switch (i % 3, i % 5) {\n    case (0, 0):\n        print(\"FizzBuzz\")\n    case (0, _):\n        print(\"Fizz\")\n    case (_, 0):\n        print(\"Buzz\")\n    default:\n        print(i)\n    }\n}\n```\n",
+				"date_published": "2021-08-15T12:45:00-05:00",
+				"url": "https://brokaw.micro.blog/2021/08/15/code.html"
+			},
+			{
+				"id": "http://brokaw.micro.blog/2021/08/15/a-post-with.html",
+				
+				"content_html": "<p>A post with a photo: the Austin FC supporters section.</p>\n\n<p><img src=\"https://brokaw.micro.blog/uploads/2021/7a08335c23.jpg\" width=\"600\" height=\"399\" alt=\"\" /></p>\n\n<p>Note: not my photo. I&rsquo;m in that crowd somewhere.</p>\n",
+				"content_text": "A post with a photo: the Austin FC supporters section. \n\n<img src=\"https://brokaw.micro.blog/uploads/2021/7a08335c23.jpg\" width=\"600\" height=\"399\" alt=\"\" />\n\nNote: not my photo. I'm in that crowd somewhere.\n",
+				"date_published": "2021-08-15T12:20:00-05:00",
+				"url": "https://brokaw.micro.blog/2021/08/15/a-post-with.html"
+			},
+			{
+				"id": "http://brokaw.micro.blog/2021/08/15/the-next-step.html",
+				
+				"content_html": "<p>The next step for my micro blog is a custom domain. But do I add a micro.brokaw.org domain, or replace my Wordpress site currently at <a href=\"https://steven.brokaw.org/\">steven.brokaw.org</a>?</p>\n",
+				"content_text": "The next step for my micro blog is a custom domain. But do I add a micro.brokaw.org domain, or replace my Wordpress site currently at [steven.brokaw.org](https://steven.brokaw.org/)?\n",
+				"date_published": "2021-08-15T12:09:07-05:00",
+				"url": "https://brokaw.micro.blog/2021/08/15/the-next-step.html"
+			},
+			{
+				"id": "http://brokaw.micro.blog/2021/08/15/the-new-post.html",
+				
+				"content_html": "<p>The new post seems to have overwritten my earlier posts. Luckily, they were just test posts from 2017.</p>\n",
+				"content_text": "The new post seems to have overwritten my earlier posts. Luckily, they were just test posts from 2017.\n",
+				"date_published": "2021-08-15T10:42:32-05:00",
+				"url": "https://brokaw.micro.blog/2021/08/15/the-new-post.html"
+			},
+			{
+				"id": "http://brokaw.micro.blog/2021/08/15/another-try-at.html",
+				"title": "Another Try at micro.blog",
+				"content_html": "<p>I (re-)subscribed to a paid micro.blog acount. I got a couple of free trials for supporting the kickstarter, but it never clicked. I&rsquo;m back to give it another try.</p>\n\n<p>The thing that brought me back is the way the micro posts and full blog posts are intermixed on the blog page. The looks and works the way I want. I never got my WordPress site working how I really wanted. I was hoping somebody would write a book (cough, cough) that might address how to self-host a similar site. At any rate, I&rsquo;m happy to pay for a hosted solution, as long as it does what I want, and it seems like micro.blog now does what I want.</p>\n",
+				"content_text": "I (re-)subscribed to a paid micro.blog acount. I got a couple of free trials for supporting the kickstarter, but it never clicked. I'm back to give it another try.\r\n\r\nThe thing that brought me back is the way the micro posts and full blog posts are intermixed on the blog page. The looks and works the way I want. I never got my WordPress site working how I really wanted. I was hoping somebody would write a book (cough, cough) that might address how to self-host a similar site. At any rate, I'm happy to pay for a hosted solution, as long as it does what I want, and it seems like micro.blog now does what I want.\n",
+				"date_published": "2021-08-15T10:30:08-05:00",
+				"url": "https://brokaw.micro.blog/2021/08/15/another-try-at.html"
+			}
+	]
+}
