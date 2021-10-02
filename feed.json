@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://brokaw.micro.blog/2021/10/01/i-would-like.html",
+				
+				"content_html": "<blockquote>\n<p>“I would like to believe in God in order to thank him, but I just believe in Billy Wilder, so thank you, Mr. Wilder.”</p>\n</blockquote>\n\n<p>I remember this vividly from the Oscars, but I didn&rsquo;t remember who or when. It&rsquo;s from the 1994(!) acceptance speech of Fernando Trueba, for <em>Belle Epoch</em>.</p>\n\n<p>🎬</p>\n",
+				"content_text": "> “I would like to believe in God in order to thank him, but I just believe in Billy Wilder, so thank you, Mr. Wilder.” \n\nI remember this vividly from the Oscars, but I didn't remember who or when. It's from the 1994(!) acceptance speech of Fernando Trueba, for _Belle Epoch_.\n\n🎬\n",
+				"date_published": "2021-10-01T21:29:02-05:00",
+				"url": "https://brokaw.micro.blog/2021/10/01/i-would-like.html"
+			},
+			{
 				"id": "http://brokaw.micro.blog/2021/09/14/sunrise.html",
 				
 				"content_html": "<p>Sunrise</p>\n\n<p><img src=\"uploads/2021/e4e948441b.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
@@ -162,8 +170,8 @@
 			{
 				"id": "http://brokaw.micro.blog/2021/08/15/a-post-with.html",
 				
-				"content_html": "<p>A post with a photo: the Austin FC supporters section.</p>\n\n<p><img src=\"https://brokaw.micro.blog/uploads/2021/7a08335c23.jpg\" width=\"600\" height=\"399\" alt=\"\" /></p>\n\n<p>Note: not my photo. I&rsquo;m in that crowd somewhere.</p>\n",
-				"content_text": "A post with a photo: the Austin FC supporters section. \n\n<img src=\"https://brokaw.micro.blog/uploads/2021/7a08335c23.jpg\" width=\"600\" height=\"399\" alt=\"\" />\n\nNote: not my photo. I'm in that crowd somewhere.\n",
+				"content_html": "<p>A post with a photo: the Austin FC supporters section.</p>\n\n<p><img src=\"uploads/2021/7a08335c23.jpg\" width=\"600\" height=\"399\" alt=\"\" /></p>\n\n<p>Note: not my photo. I&rsquo;m in that crowd somewhere.</p>\n",
+				"content_text": "A post with a photo: the Austin FC supporters section. \n\n<img src=\"uploads/2021/7a08335c23.jpg\" width=\"600\" height=\"399\" alt=\"\" />\n\nNote: not my photo. I'm in that crowd somewhere.\n",
 				"date_published": "2021-08-15T12:20:00-05:00",
 				"url": "https://brokaw.micro.blog/2021/08/15/a-post-with.html"
 			},
