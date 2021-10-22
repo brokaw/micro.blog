@@ -178,8 +178,8 @@
 			{
 				"id": "http://brokaw.micro.blog/2021/08/15/a-post-with.html",
 				
-				"content_html": "<p>A post with a photo: the Austin FC supporters section.</p>\n\n<p><img src=\"uploads/2021/7a08335c23.jpg\" width=\"600\" height=\"399\" alt=\"\" /></p>\n\n<p>Note: not my photo. I&rsquo;m in that crowd somewhere.</p>\n",
-				"content_text": "A post with a photo: the Austin FC supporters section. \n\n<img src=\"uploads/2021/7a08335c23.jpg\" width=\"600\" height=\"399\" alt=\"\" />\n\nNote: not my photo. I'm in that crowd somewhere.\n",
+				"content_html": "<p>A post with a photo: the Austin FC supporters section.</p>\n\n<p><img src=\"https://brokaw.micro.blog/uploads/2021/7a08335c23.jpg\" width=\"600\" height=\"399\" alt=\"\" /></p>\n\n<p>Note: not my photo. I&rsquo;m in that crowd somewhere.</p>\n",
+				"content_text": "A post with a photo: the Austin FC supporters section. \n\n<img src=\"https://brokaw.micro.blog/uploads/2021/7a08335c23.jpg\" width=\"600\" height=\"399\" alt=\"\" />\n\nNote: not my photo. I'm in that crowd somewhere.\n",
 				"date_published": "2021-08-15T12:20:00-05:00",
 				"url": "https://brokaw.micro.blog/2021/08/15/a-post-with.html"
 			},
