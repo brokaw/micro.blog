@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://brokaw.micro.blog/2022/05/15/the-eclipse-frim.html",
+				
+				"content_html": "<p>The eclipse frim an iPhone camera pointed at a telescope eyepiece.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The eclipse frim an iPhone camera pointed at a telescope eyepiece. \n\n<img src=\"uploads/2022/d971b07de5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-05-15T23:46:07-05:00",
+				"url": "https://brokaw.micro.blog/2022/05/15/the-eclipse-frim.html"
+			},
+			{
+				"id": "http://brokaw.micro.blog/2022/05/12/its-looking-more.html",
+				
+				"content_html": "<p>It&rsquo;s looking more and more likely that I&rsquo;ll have to give up on Twitter completely.</p>\n",
+				"content_text": "It's looking more and more likely that I'll have to give up on Twitter completely.\n",
+				"date_published": "2022-05-12T19:36:59-05:00",
+				"url": "https://brokaw.micro.blog/2022/05/12/its-looking-more.html"
+			},
+			{
+				"id": "http://brokaw.micro.blog/2022/05/10/saw-the-automat.html",
+				
+				"content_html": "<p>Saw <a href=\"https://www.imdb.com/title/tt4554690/\">The Automat</a> at <a href=\"https://www.austinfilm.org/screenings/\">AFS</a> last night. I knew <em>of</em> automats, but I didn&rsquo;t realize how grand they were. The floors and tables were white marble; the machines polished chrome. Moreover, they welcomed an economically and ethnically diverse crowd.</p>\n<p>🎥</p>\n",
+				"content_text": "Saw [The Automat](https://www.imdb.com/title/tt4554690/) at [AFS](https://www.austinfilm.org/screenings/) last night. I knew _of_ automats, but I didn't realize how grand they were. The floors and tables were white marble; the machines polished chrome. Moreover, they welcomed an economically and ethnically diverse crowd.\n\n🎥\n",
+				"date_published": "2022-05-10T15:52:57-05:00",
+				"url": "https://brokaw.micro.blog/2022/05/10/saw-the-automat.html"
+			},
+			{
+				"id": "http://brokaw.micro.blog/2022/05/10/my-play-date.html",
+				
+				"content_html": "<p>My play date arrived!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "My play date arrived!\n\n<img src=\"uploads/2022/17562e8a0d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-05-10T09:35:30-05:00",
+				"url": "https://brokaw.micro.blog/2022/05/10/my-play-date.html"
+			},
+			{
+				"id": "http://brokaw.micro.blog/2022/05/10/acm-members-will.html",
+				
+				"content_html": "<p>ACM members will no longer get access to O&rsquo;Reilly&rsquo;s Safari books after July 1. It was a good deal while it lasted. I&rsquo;ll go back to buying individual books, because it&rsquo;s not worth $400/year to me.</p>\n",
+				"content_text": "ACM members will no longer get access to O'Reilly's Safari books after July 1. It was a good deal while it lasted. I'll go back to buying individual books, because it's not worth $400/year to me.\n",
+				"date_published": "2022-05-10T08:29:25-05:00",
+				"url": "https://brokaw.micro.blog/2022/05/10/acm-members-will.html"
+			},
+			{
 				"id": "http://brokaw.micro.blog/2022/02/11/now-that-everything.html",
 				
 				"content_html": "<p>Now that everything is crisp and retina-y on my new display, the custom scrollbar in Lightroom looks notably bad.</p>\n",
@@ -106,7 +146,7 @@
 				"id": "http://brokaw.micro.blog/2021/09/14/sunrise.html",
 				
 				"content_html": "<p>Sunrise</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sunrise\n\n<img src=\"uploads/2021/e4e948441b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Sunrise\n\n<img src=\"https://brokaw.micro.blog/uploads/2021/e4e948441b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-09-14T07:04:00-05:00",
 				"url": "https://brokaw.micro.blog/2021/09/14/sunrise.html"
 			},
@@ -218,7 +258,7 @@
 				"id": "http://brokaw.micro.blog/2021/08/15/we-started-out.html",
 				
 				"content_html": "<p>We started out planning for a picnic at Waterloo Greenway, ended up spending a rainy day at the Crown.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We started out planning for a picnic at Waterloo Greenway, ended up spending a rainy day at the Crown.\n\n<img src=\"uploads/2021/dbeed44a2f.jpg\" />\n",
+				"content_text": "We started out planning for a picnic at Waterloo Greenway, ended up spending a rainy day at the Crown.\n\n<img src=\"https://brokaw.micro.blog/uploads/2021/dbeed44a2f.jpg\" />\n",
 				"date_published": "2021-08-15T16:25:00-05:00",
 				"url": "https://brokaw.micro.blog/2021/08/15/we-started-out.html",
 				"tags": ["Austin"]
@@ -259,7 +299,7 @@
 				"id": "http://brokaw.micro.blog/2021/08/15/a-post-with.html",
 				
 				"content_html": "<p>A post with a photo: the Austin FC supporters section.</p>\n<!-- raw HTML omitted -->\n<p>Note: not my photo. I&rsquo;m in that crowd somewhere.</p>\n",
-				"content_text": "A post with a photo: the Austin FC supporters section. \n\n<img src=\"uploads/2021/7a08335c23.jpg\" width=\"600\" height=\"399\" alt=\"\" />\n\nNote: not my photo. I'm in that crowd somewhere.\n",
+				"content_text": "A post with a photo: the Austin FC supporters section. \n\n<img src=\"https://brokaw.micro.blog/uploads/2021/7a08335c23.jpg\" width=\"600\" height=\"399\" alt=\"\" />\n\nNote: not my photo. I'm in that crowd somewhere.\n",
 				"date_published": "2021-08-15T12:20:00-05:00",
 				"url": "https://brokaw.micro.blog/2021/08/15/a-post-with.html"
 			},
