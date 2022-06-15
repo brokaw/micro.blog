@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://brokaw.micro.blog/2022/06/14/so-many-online.html",
+				
+				"content_html": "<p>So many online reviewers think I&rsquo;m buying clicky keyboard switches for the sound. I couldn&rsquo;t care less about the sound. They just feel better than non-clicky tactile switches.</p>\n",
+				"content_text": "So many online reviewers think I'm buying clicky keyboard switches for the sound. I couldn't care less about the sound. They just feel better than non-clicky tactile switches.\n",
+				"date_published": "2022-06-14T21:41:42-05:00",
+				"url": "https://brokaw.micro.blog/2022/06/14/so-many-online.html"
+			},
+			{
+				"id": "http://brokaw.micro.blog/2022/05/25/222800.html",
+				
+				"content_html": "<p>I saw Peter Bogdanovich&rsquo;s 1972 film, <a href=\"https://www.imdb.com/title/tt0072665/\"><em>At Long Last Love</em></a> last night. It was a huge flop in its time, on the order of <em>Ishtar</em> or <em>Heaven&rsquo;s Gate</em>. It&rsquo;s currently undergoing a reevaluation, hampered mainly by the fact it&rsquo;s so hard to see (apparently the rights to the Cole Porter songs are a little suspect).  See Richard Brody&rsquo;s 2018 <a href=\"https://www.newyorker.com/culture/the-front-row/review-at-long-last-love-a-peter-bogdanovich-masterwork-that-was-despised-in-its-time\"><em>New Yorker</em> review</a>.</p>\n<p>I was lucky to attend a full-house screening at the Austin Film Society. In a year of <em>Hair</em> and <em>One Flew Over the Cuckoo&rsquo;s Nest</em>, it must have felt like it cowardly avoided the current culture. But also avoided some of the problematic issues of 30s musicals and gave the women some agency.</p>\n",
+				"content_text": "I saw Peter Bogdanovich's 1972 film, [_At Long Last Love_][1] last night. It was a huge flop in its time, on the order of _Ishtar_ or _Heaven's Gate_. It's currently undergoing a reevaluation, hampered mainly by the fact it's so hard to see (apparently the rights to the Cole Porter songs are a little suspect).  See Richard Brody's 2018 [_New Yorker_ review][2].\n\nI was lucky to attend a full-house screening at the Austin Film Society. In a year of _Hair_ and _One Flew Over the Cuckoo's Nest_, it must have felt like it cowardly avoided the current culture. But also avoided some of the problematic issues of 30s musicals and gave the women some agency.\n\n[1]: https://www.imdb.com/title/tt0072665/\n\n[2]: https://www.newyorker.com/culture/the-front-row/review-at-long-last-love-a-peter-bogdanovich-masterwork-that-was-despised-in-its-time\n\n",
+				"date_published": "2022-05-25T22:28:00-05:00",
+				"url": "https://brokaw.micro.blog/2022/05/25/222800.html"
+			},
+			{
 				"id": "http://brokaw.micro.blog/2022/05/17/tonight-we-saw.html",
 				
 				"content_html": "<p>Tonight we saw <em>What&rsquo;s Up Doc?</em> in a theater full of people. It&rsquo;s the best way to watch a comedy, and some 50 years after it was made, this one still delivers.</p>\n",
@@ -43,7 +59,7 @@
 				"id": "http://brokaw.micro.blog/2022/05/10/my-play-date.html",
 				
 				"content_html": "<p>My play date arrived!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My play date arrived!\n\n<img src=\"https://brokaw.micro.blog/uploads/2022/17562e8a0d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "My play date arrived!\n\n<img src=\"uploads/2022/17562e8a0d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-05-10T09:35:30-05:00",
 				"url": "https://brokaw.micro.blog/2022/05/10/my-play-date.html"
 			},
@@ -155,7 +171,7 @@
 				"id": "http://brokaw.micro.blog/2021/09/14/sunrise.html",
 				
 				"content_html": "<p>Sunrise</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sunrise\n\n<img src=\"https://brokaw.micro.blog/uploads/2021/e4e948441b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Sunrise\n\n<img src=\"uploads/2021/e4e948441b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-09-14T07:04:00-05:00",
 				"url": "https://brokaw.micro.blog/2021/09/14/sunrise.html"
 			},
@@ -267,7 +283,7 @@
 				"id": "http://brokaw.micro.blog/2021/08/15/we-started-out.html",
 				
 				"content_html": "<p>We started out planning for a picnic at Waterloo Greenway, ended up spending a rainy day at the Crown.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We started out planning for a picnic at Waterloo Greenway, ended up spending a rainy day at the Crown.\n\n<img src=\"https://brokaw.micro.blog/uploads/2021/dbeed44a2f.jpg\" />\n",
+				"content_text": "We started out planning for a picnic at Waterloo Greenway, ended up spending a rainy day at the Crown.\n\n<img src=\"uploads/2021/dbeed44a2f.jpg\" />\n",
 				"date_published": "2021-08-15T16:25:00-05:00",
 				"url": "https://brokaw.micro.blog/2021/08/15/we-started-out.html",
 				"tags": ["Austin"]
@@ -308,7 +324,7 @@
 				"id": "http://brokaw.micro.blog/2021/08/15/a-post-with.html",
 				
 				"content_html": "<p>A post with a photo: the Austin FC supporters section.</p>\n<!-- raw HTML omitted -->\n<p>Note: not my photo. I&rsquo;m in that crowd somewhere.</p>\n",
-				"content_text": "A post with a photo: the Austin FC supporters section. \n\n<img src=\"https://brokaw.micro.blog/uploads/2021/7a08335c23.jpg\" width=\"600\" height=\"399\" alt=\"\" />\n\nNote: not my photo. I'm in that crowd somewhere.\n",
+				"content_text": "A post with a photo: the Austin FC supporters section. \n\n<img src=\"uploads/2021/7a08335c23.jpg\" width=\"600\" height=\"399\" alt=\"\" />\n\nNote: not my photo. I'm in that crowd somewhere.\n",
 				"date_published": "2021-08-15T12:20:00-05:00",
 				"url": "https://brokaw.micro.blog/2021/08/15/a-post-with.html"
 			},
