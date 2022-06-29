@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://brokaw.micro.blog/2022/06/29/i-love-that.html",
+				
+				"content_html": "<p>I love that <a href=\"https://www.howtogeek.com/812246/atari-was-very-very-hard-nolan-bushnell-on-atari-50-years-later/\">Nolan Bushnell says his favorite Atari game is Tempest</a>. I loved that game. I couldn&rsquo;t get into Stargate&ndash;so many buttons!&ndash;but Tempest was a great game with simple controls.</p>\n",
+				"content_text": "I love that [Nolan Bushnell says his favorite Atari game is Tempest](https://www.howtogeek.com/812246/atari-was-very-very-hard-nolan-bushnell-on-atari-50-years-later/). I loved that game. I couldn't get into Stargate--so many buttons!--but Tempest was a great game with simple controls.\n",
+				"date_published": "2022-06-29T09:25:48-05:00",
+				"url": "https://brokaw.micro.blog/2022/06/29/i-love-that.html"
+			},
+			{
 				"id": "http://brokaw.micro.blog/2022/06/14/so-many-online.html",
 				
 				"content_html": "<p>So many online reviewers think I&rsquo;m buying clicky keyboard switches for the sound. I couldn&rsquo;t care less about the sound. They just feel better than non-clicky tactile switches.</p>\n",
