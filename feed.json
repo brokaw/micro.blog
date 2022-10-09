@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://brokaw.micro.blog/2022/10/09/the-bergstrom-spur.html",
+				
+				"content_html": "<p>The <a href=\"https://data.austintexas.gov/stories/s/Bergstrom-Spur-Trail-Network/ptz4-rru2/\">Bergstrom Spur Trail</a> will be approximately 6.5 miles bike and pedestrian trail from Vinson Drive  to East Riverside Drive and US-183 in southeast Austin. They&rsquo;re looking for <a href=\"https://www.surveymonkey.com/r/BST_W_C_60P\">feedback</a> on the <a href=\"https://storymaps.arcgis.com/stories/439c101709614c07a8b760d73fab3d83\">60% design plans</a> until October 30.</p>\n",
+				"content_text": "The [Bergstrom Spur Trail](https://data.austintexas.gov/stories/s/Bergstrom-Spur-Trail-Network/ptz4-rru2/) will be approximately 6.5 miles bike and pedestrian trail from Vinson Drive  to East Riverside Drive and US-183 in southeast Austin. They're looking for [feedback](https://www.surveymonkey.com/r/BST_W_C_60P) on the [60% design plans](https://storymaps.arcgis.com/stories/439c101709614c07a8b760d73fab3d83) until October 30.\n",
+				"date_published": "2022-10-09T09:31:26-05:00",
+				"url": "https://brokaw.micro.blog/2022/10/09/the-bergstrom-spur.html"
+			},
+			{
+				"id": "http://brokaw.micro.blog/2022/08/16/currently-reading-inverting.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781568589268\">Inverting The Pyramid</a> by Jonathan Wilson 📚</p>\n<p>I don&rsquo;t know if I&rsquo;ll finish this one, but it was at the library, so I&rsquo;m giving it a shot.</p>\n",
+				"content_text": "Currently reading: [Inverting The Pyramid](https://micro.blog/books/9781568589268) by Jonathan Wilson 📚\n\nI don't know if I'll finish this one, but it was at the library, so I'm giving it a shot.\n",
+				"date_published": "2022-08-16T15:30:02-05:00",
+				"url": "https://brokaw.micro.blog/2022/08/16/currently-reading-inverting.html"
+			},
+			{
+				"id": "http://brokaw.micro.blog/2022/08/16/finished-reading-devil.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781451612486\">Devil in a Blue Dress: An Easy Rawlins Novel</a> by Walter Mosley 📚</p>\n",
+				"content_text": "Finished reading: [Devil in a Blue Dress: An Easy Rawlins Novel](https://micro.blog/books/9781451612486) by Walter Mosley 📚\n",
+				"date_published": "2022-08-16T07:50:35-05:00",
+				"url": "https://brokaw.micro.blog/2022/08/16/finished-reading-devil.html"
+			},
+			{
+				"id": "http://brokaw.micro.blog/2022/08/10/currently-reading-devil.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781451612486\">Devil in a Blue Dress</a> by Walter Mosley 📚</p>\n",
+				"content_text": "Currently reading: [Devil in a Blue Dress](https://micro.blog/books/9781451612486) by Walter Mosley 📚\n",
+				"date_published": "2022-08-10T15:23:10-05:00",
+				"url": "https://brokaw.micro.blog/2022/08/10/currently-reading-devil.html"
+			},
+			{
 				"id": "http://brokaw.micro.blog/2022/08/10/finished-reading-the.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780575089914\">The Final Empire: Mistborn Book One</a> by Brandon Sanderson 📚</p>\n<p>A very easy read; almost a young adult book. And so many of the characters are just so nice. My favorite character was Shan, who we all hate, but who created some needed conflict.</p>\n",
